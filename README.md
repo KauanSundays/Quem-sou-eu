@@ -9,7 +9,7 @@
 <body>
     <h1>Minhas Redes Sociais</h1>
     <h2>Quem sou eu?</h2>
-  <img align="center" alt="Kauan" height="70" width="90" src="https://user-images.githubusercontent.com/102335585/166129707-9fdf0a34-c6d2-459c-9568-3160a58a61e4.png">
+  <img align="center" alt="Kauan" height="250" width="200" src="https://user-images.githubusercontent.com/102335585/166129707-9fdf0a34-c6d2-459c-9568-3160a58a61e4.png">
     <p>Meu nome é <b>Gustavo Guanabara</b>, sou professor de 
         tecnologia,<br> dou aulas para o Kauan
         que quer <br> arrumar emprego na area 
